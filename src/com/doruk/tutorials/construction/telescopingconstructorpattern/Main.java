@@ -1,4 +1,4 @@
-package com.doruk.tutorials.telescopingconstructorpattern;
+package com.doruk.tutorials.construction.telescopingconstructorpattern;
 
 public class Main {
 

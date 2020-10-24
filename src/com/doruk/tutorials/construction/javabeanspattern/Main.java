@@ -1,4 +1,4 @@
-package com.doruk.tutorials.javabeanspattern;
+package com.doruk.tutorials.construction.javabeanspattern;
 
 public class Main {
 

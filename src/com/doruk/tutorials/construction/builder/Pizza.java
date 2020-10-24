@@ -1,4 +1,4 @@
-package com.doruk.tutorials.builder;
+package com.doruk.tutorials.construction.builder;
 
 import java.util.EnumSet;
 import java.util.Objects;

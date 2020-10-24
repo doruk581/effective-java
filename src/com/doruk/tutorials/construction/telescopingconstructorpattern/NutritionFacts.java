@@ -1,4 +1,4 @@
-package com.doruk.tutorials.telescopingconstructorpattern;
+package com.doruk.tutorials.construction.telescopingconstructorpattern;
 /*
 * The telescoping contructor pattern works, but it is hard to write client code when there are many parameters
 * and harder still to read it

@@ -1,4 +1,4 @@
-package com.doruk.tutorials.builder;
+package com.doruk.tutorials.construction.builder;
 
 public class Main {
 
